@@ -2,7 +2,7 @@
 
 	// kõik väljad valideeritud
 	//oma cäljad kasutaja loomisel
-	//sql, vajadusel uus tabel
+	//PS! sql, vajadusel uus tabel
 	
 	require("../../config.php");
 	require("functions.php");
